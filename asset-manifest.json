@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landry-geek/todo-list.git/static/css/main.1de594d4.css",
+    "main.js": "/landry-geek/todo-list.git/static/js/main.60184a10.js",
+    "static/js/787.bc7d429a.chunk.js": "/landry-geek/todo-list.git/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/landry-geek/todo-list.git/index.html",
+    "main.1de594d4.css.map": "/landry-geek/todo-list.git/static/css/main.1de594d4.css.map",
+    "main.60184a10.js.map": "/landry-geek/todo-list.git/static/js/main.60184a10.js.map",
+    "787.bc7d429a.chunk.js.map": "/landry-geek/todo-list.git/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de594d4.css",
+    "static/js/main.60184a10.js"
+  ]
+}
